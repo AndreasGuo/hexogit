@@ -24,7 +24,7 @@ index:  # 首页相关配置
     #- "我忘明月很久，明月始终望我"
     #- "人山人海，人来人往"
     #- "看过大海的人不会忘记海的广阔"
-    # ...
+    - "为最后一无所有，我们永世不必低头"
   hitokoto: false # 一言：调用网络语句展示的接口
   footer: Email:hnyguo@hotmail.com # 除了可以填写任何文字外，可以自动邮箱链接化，但需按照这个格式填写：Email:xxx@gmail.com
   titlePosition: left # center | left  # 首页标题的位置
