@@ -103,4 +103,4 @@ theme: a4
 deploy:
   type: git
   repo: https://github.com/AndreasGuo/AndreasGuo.github.io
-  brach: main
+  branch: main
